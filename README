@@ -1,0 +1,25 @@
+---------------
+| github-data |
+---------------
+
+Download all of your GitHub data
+Image of Lexi Galantino
+Lexi Galantino
+
+Your trust is our first priority. That’s why we’re making it easy to get all of the data connected to your profile, whenever you need it. Now you can better understand what information we store, so you can make informed choices about how you use GitHub.
+
+screenshot of requeseting an archive of your GitHub data
+
+How it works
+Follow these steps to request an archive of your data:
+
+Visit your account settings page.
+Click “Start export” in the “Export account data” section. You will receive an email when the export is ready.
+Click the link in the email to download the archive.
+The archive will contain your profile data, plan, and any email addresses connected with your account in addition to the issues, pull requests, comments, reviews, releases, projects, events, attachments, milestones, and settings for each of your repositories—along with basic information about the users who have interacted with them.
+
+Since the information is exported in a machine-readable format (Git and JSON), the archive allows you to back up your data offline, or move it to another service altogether. After all, it’s your data.
+
+Archives remain available for seven days or until you choose to delete them. If you want more control over what information is exported, or if you want to export an organization’s information, use the Migration API.
+
+Learn more about archiving your data
